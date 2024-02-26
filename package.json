@@ -1,0 +1,23 @@
+{
+  "name": "yiyutet-static",
+  "version": "1.0.0",
+  "description": "yiyutet static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiYuTET/ImageStorage.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "yiyutet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiYuTET/ImageStorage/issues"
+  },
+  "homepage": "https://github.com/YiYuTET/ImageStorage#readme"
+}
