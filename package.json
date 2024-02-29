@@ -1,6 +1,6 @@
 {
   "name": "yiyutet-static",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "yiyutet static file",
   "main": "index.js",
   "scripts": {
